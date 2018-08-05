@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0441015d-b844-41bf-90a0-d9ed2f7c9321" name="Default" comment="">
+    <list default="true" id="0441015d-b844-41bf-90a0-d9ed2f7c9321" name="Default" comment="edited">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -9,34 +9,64 @@
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1846248730">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="903" />
+          <entry key="txt" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="903" />
+          <entry key="PLAIN_TEXT" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="94" column="148" selection-start-line="94" selection-start-column="148" selection-end-line="94" selection-end-column="148" />
-              <folding>
-                <element signature="n#style#0;n#category-item#0;n#category#4;n#resume-column#1;n#resume-body#0;n#resume#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="46" column="120" lean-forward="true" selection-start-line="46" selection-end-line="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="backup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backup.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index_updated.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1870">
-              <caret line="110" selection-start-line="110" selection-end-line="110" />
-              <folding>
-                <element signature="n#style#0;n#category-item#0;n#category#4;n#resume-column#1;n#resume-body#0;n#resume#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="44" column="43" selection-end-line="135" />
             </state>
           </provider>
         </entry>
@@ -79,9 +109,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="697" />
+    <option name="x" value="750" />
+    <option name="width" value="623" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectView">
@@ -106,7 +135,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/wordpress" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -156,7 +185,13 @@
       <workItem from="1531489162479" duration="2409000" />
       <workItem from="1531742486268" duration="306000" />
       <workItem from="1532974670189" duration="738000" />
-      <workItem from="1532975656580" duration="5001000" />
+      <workItem from="1532975656580" duration="6976000" />
+      <workItem from="1533013662145" duration="788000" />
+      <workItem from="1533036547718" duration="2716000" />
+      <workItem from="1533317886575" duration="6010000" />
+      <workItem from="1533330934079" duration="147000" />
+      <workItem from="1533331229844" duration="1209000" />
+      <workItem from="1533367155868" duration="3506000" />
     </task>
     <task id="LOCAL-00001" summary="details added">
       <created>1529781149399</created>
@@ -340,33 +375,159 @@
       <option name="project" value="LOCAL" />
       <updated>1532980540090</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="modified">
+      <created>1532980695426</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1532980695426</updated>
+    </task>
+    <task id="LOCAL-00028" summary="files modified">
+      <created>1532980825384</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1532980825384</updated>
+    </task>
+    <task id="LOCAL-00029" summary="linkedin profile changed">
+      <created>1533011848436</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1533011848436</updated>
+    </task>
+    <task id="LOCAL-00030" summary="changes made">
+      <created>1533012506902</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1533012506902</updated>
+    </task>
+    <task id="LOCAL-00031" summary="achievement hidden">
+      <created>1533012708767</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1533012708767</updated>
+    </task>
+    <task id="LOCAL-00032" summary="changes made">
+      <created>1533012793982</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1533012793982</updated>
+    </task>
+    <task id="LOCAL-00033" summary="changes made">
+      <created>1533013040676</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1533013040676</updated>
+    </task>
+    <task id="LOCAL-00034" summary="changes made">
+      <created>1533013317456</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1533013317456</updated>
+    </task>
+    <task id="LOCAL-00035" summary="changes made">
+      <created>1533013930242</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1533013930242</updated>
+    </task>
+    <task id="LOCAL-00036" summary="changes made">
+      <created>1533014269418</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1533014269418</updated>
+    </task>
+    <task id="LOCAL-00037" summary="shorten">
+      <created>1533037697996</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1533037697996</updated>
+    </task>
+    <task id="LOCAL-00038" summary="edited">
+      <created>1533039522828</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1533039522828</updated>
+    </task>
+    <task id="LOCAL-00039" summary="edited">
+      <created>1533041187845</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1533041187845</updated>
+    </task>
+    <task id="LOCAL-00040" summary="edited">
+      <created>1533041505822</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1533041505822</updated>
+    </task>
+    <task id="LOCAL-00041" summary="edited">
+      <created>1533318333789</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1533318333789</updated>
+    </task>
+    <task id="LOCAL-00042" summary="edited">
+      <created>1533328414163</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1533328414163</updated>
+    </task>
+    <task id="LOCAL-00043" summary="edited">
+      <created>1533330968896</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1533330968896</updated>
+    </task>
+    <task id="LOCAL-00044" summary="edited">
+      <created>1533332423152</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1533332423153</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29793000" />
+    <option name="totallyTimeSpent" value="46144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13103953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15401785" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5135135" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3290938" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5135135" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,156 +540,15 @@
     <MESSAGE value="details added" />
     <MESSAGE value="resume modified" />
     <MESSAGE value="modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified" />
+    <MESSAGE value="files modified" />
+    <MESSAGE value="linkedin profile changed" />
+    <MESSAGE value="achievement hidden" />
+    <MESSAGE value="changes made" />
+    <MESSAGE value="shorten" />
+    <MESSAGE value="edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="76" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
-          <folding>
-            <element signature="n#style#0;n#category-item#0;n#category#4;n#resume-column#1;n#resume-body#0;n#resume#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="76" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
-          <folding>
-            <element signature="n#style#0;n#category-item#0;n#category#4;n#resume-column#1;n#resume-body#0;n#resume#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="80" column="39" lean-forward="true" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#category-item#0;n#category#4;n#resume-column#1;n#resume-body#0;n#resume#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="92" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="92" />
-          <folding>
-            <element signature="n#style#0;n#category-item#0;n#category#4;n#resume-column#1;n#resume-body#0;n#resume#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="266" selection-start-line="86" selection-start-column="266" selection-end-line="86" selection-end-column="266" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="266" selection-start-line="86" selection-start-column="266" selection-end-line="86" selection-end-column="266" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="92" lean-forward="true" selection-start-line="71" selection-start-column="92" selection-end-line="71" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="227" selection-start-line="86" selection-start-column="227" selection-end-line="86" selection-end-column="227" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="111" lean-forward="true" selection-start-line="86" selection-start-column="111" selection-end-line="86" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="132" selection-start-line="88" selection-start-column="132" selection-end-line="88" selection-end-column="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="126" selection-start-line="17" selection-start-column="126" selection-end-line="17" selection-end-column="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.npmignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -563,19 +583,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1870">
           <caret line="110" selection-start-line="110" selection-end-line="110" />
-          <folding>
-            <element signature="n#style#0;n#category-item#0;n#category#4;n#resume-column#1;n#resume-body#0;n#resume#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_updated.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="44" column="43" selection-end-line="135" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="94" column="148" selection-start-line="94" selection-start-column="148" selection-end-line="94" selection-end-column="148" />
-          <folding>
-            <element signature="n#style#0;n#category-item#0;n#category#4;n#resume-column#1;n#resume-body#0;n#resume#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="46" column="120" lean-forward="true" selection-start-line="46" selection-end-line="47" />
         </state>
       </provider>
     </entry>
